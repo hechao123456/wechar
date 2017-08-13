@@ -1,5 +1,5 @@
 <?php 	
-
+//git 备份操作
 //入口文件
 require './wx_sample.php';
 //实例化
